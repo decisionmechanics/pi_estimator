@@ -17,7 +17,7 @@ docker build -t pi-estimator https://github.com/decisionmechanics/pi_estimator.g
 ## Run Docker container
 
 ```
-docker run -d -p 8080:8080 --name --rm pi-estimator pi-estimator
+docker run -d -p 8080:8080 --name pi-estimator --rm pi-estimator
 ```
 
 This exposes the service on port 8080.
