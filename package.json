@@ -2,6 +2,10 @@
   "name": "3659_git_demo",
   "version": "1.0.0",
   "description": "Git demo for Chapter 4 of Learning Tree's Introduction to Docker course (3659)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/decisionmechanics/pi_estimator.git"
+  },
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
