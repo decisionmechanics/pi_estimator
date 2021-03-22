@@ -1,0 +1,14 @@
+{
+  "name": "3659_git_demo",
+  "version": "1.0.0",
+  "description": "Git demo for Chapter 4 of Learning Tree's Introduction to Docker course (3659)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Tait",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
